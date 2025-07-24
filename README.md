@@ -80,7 +80,7 @@ For developers who prefer local access:
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/dhruvx19/quiz_app.git
-cd quiz-app-flutter
+cd quiz_app
 ```
 
 #### 2. Install Dependencies
